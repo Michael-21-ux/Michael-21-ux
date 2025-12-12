@@ -26,5 +26,5 @@
   <br>
   
 > [!tip]
-> > 💡 **Aquí no importa dónde empieces, importa hacia dónde decides avanzar.
+> > 💡 **Aquí no importa dónde empieces, importa hacia dónde decides avanzar**.
 
